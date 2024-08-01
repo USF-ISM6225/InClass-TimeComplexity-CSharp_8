@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>InClass_TimeComplexity_CSharp_7</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>InClass_TimeComplexity_CSharp_8</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>

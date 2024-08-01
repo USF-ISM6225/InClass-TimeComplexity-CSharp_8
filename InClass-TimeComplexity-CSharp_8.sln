@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InClass-TimeComplexity-CSharp_7", "InClass-TimeComplexity-CSharp_7\InClass-TimeComplexity-CSharp_7.csproj", "{C8B472A9-9016-4968-BE56-4BC865CE0354}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InClass-TimeComplexity-CSharp_8", "InClass-TimeComplexity-CSharp_8\InClass-TimeComplexity-CSharp_8.csproj", "{C8B472A9-9016-4968-BE56-4BC865CE0354}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
